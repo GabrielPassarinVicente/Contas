@@ -1,0 +1,72 @@
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\bin\Debug\net8.0-windows\Aplicativo1.exe
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\bin\Debug\net8.0-windows\Aplicativo1.deps.json
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\bin\Debug\net8.0-windows\Aplicativo1.runtimeconfig.json
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\bin\Debug\net8.0-windows\Aplicativo1.dll
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\bin\Debug\net8.0-windows\Aplicativo1.pdb
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Form1.resources
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Properties.Resources.resources
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.csproj.GenerateResource.cache
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.AssemblyInfoInputs.cache
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.AssemblyInfo.cs
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.csproj.CoreCompileInputs.cache
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.sourcelink.json
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.dll
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\refint\Aplicativo1.dll
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.pdb
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.genruntimeconfig.cache
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\ref\Aplicativo1.dll
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Cadastro.resources
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Movimento.resources
+C:\Users\Caviuna\Desktop\ProjetoGabriel\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.IncluirLancamentos.resources
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Aplicativo1.exe
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Aplicativo1.deps.json
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Aplicativo1.runtimeconfig.json
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Aplicativo1.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Aplicativo1.pdb
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Form1.resources
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Movimento.resources
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Properties.Resources.resources
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.csproj.GenerateResource.cache
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.AssemblyInfoInputs.cache
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.AssemblyInfo.cs
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.sourcelink.json
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\refint\Aplicativo1.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.pdb
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.genruntimeconfig.cache
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\ref\Aplicativo1.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.csproj.AssemblyReference.cache
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicati.961A390B.Up2Date
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Inclui.resources
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Relatório.resources
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\itextsharp.pdfa.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\bin\Debug\net8.0-windows\itextsharp.xmlworker.dll
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Utilitario.resources
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Login.resources
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.RedefinirSenha.resources
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Cadastrar.resources
+C:\Users\Gabriel Passarin\Desktop\Banco\Aplicativo1\obj\Debug\net8.0-windows\Aplicativo1.Contas.resources
